@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DivvyDiary is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://divvydiary.com/
+DivvyDiary provides a personal dividend calendar platform that helps investors track current and future dividend payments across global stocks and ETFs. Users can create portfolios, receive notifications, and visualize cash flow, while the service offers extensive data on dividend dates, amounts, and yields. The platform includes features such as calendar export, mobile alerts, and integration with financial tools, aiming to strengthen shareholder culture through transparent dividend tracking.
+
+**Areas:** Company · Finance · Investment · Dividend · Portfolio
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://divvydiary.com/)
+- [Documentation](https://divvydiary.com/en/)
+- [Pricing](https://divvydiary.com/en/pricing)
+- [Support](https://divvydiary.com/help)
+- [Blog](https://divvydiary.com/en/blog)
+- [Terms of service](https://divvydiary.com/en/legal)
+- [Privacy policy](https://divvydiary.com/en/privacy)
+- [GitHub](https://github.com/divvydiary)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/divvydiary/](https://apis.io/providers/divvydiary/).
